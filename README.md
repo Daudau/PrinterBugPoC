@@ -3,7 +3,7 @@ Script de déploiement automatique d'un environnement de PoC pour tester le prin
 
 ## Description
 
-Ce script permet le déploiement d'un environnement contenant 2 forêt, dont l'une pour laquelle les outils nécessaires à l'exploitation du "printer bug" sont installés sur le DC.
+Ce script permet le déploiement d'un environnement contenant 2 forêts, dont l'une pour laquelle les outils nécessaires à l'exploitation du "printer bug" sont installés sur le DC.
 
 Le déploiement de ce lab se fait grâce au projet AutomatedLab, disponible ici : https://github.com/AutomatedLab/AutomatedLab
 
